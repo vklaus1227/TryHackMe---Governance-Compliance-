@@ -65,7 +65,7 @@ This directly aligns with my goal of transitioning into **GRC and Compliance Ana
 
 | Section | Screenshot |
 |--------|------------|
-| Room Overview | ![Room Overview](screenshots/room-overview.png) |
+| Room Overview | ![Room Overview](intro.png) |
 | Framework Comparison | ![Frameworks](screenshots/frameworks-table.png) |
 | Quiz Completion | ![Quiz Completion](screenshots/quiz.png) |
 | Final Task Completed | ![Final Task](screenshots/final-task.png) |
