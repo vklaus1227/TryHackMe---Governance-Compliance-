@@ -66,9 +66,10 @@ This directly aligns with my goal of transitioning into **GRC and Compliance Ana
 | Section | Screenshot |
 |--------|------------|
 | Room Overview | ![Room Overview](Intro.png) |
-| Framework Comparison | ![Frameworks](screenshots/frameworks-table.png) |
-| Quiz Completion | ![Quiz Completion](screenshots/quiz.png) |
-| Final Task Completed | ![Final Task](screenshots/final-task.png) |
+| Framework Comparison | ![Frameworks](NIST.png) |
+| Completed Tasks | ![Completed](Completedtasks.png)  |
+| Quiz Completion | ![Quiz Completion](Quiz.png) |
+| Final Task Completed | ![Final Task](Conclusion.png) |
 
 > 📁 Save your screenshots in a `/screenshots` folder in the repo. If you're hosting the images elsewhere, replace the image paths accordingly.
 
