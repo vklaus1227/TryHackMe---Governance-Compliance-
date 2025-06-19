@@ -1,7 +1,7 @@
 # TryHackMe---Governance-Compliance-
 # 🛡️ TryHackMe - Governance and Regulation
 
-![TryHackMe Badge](https://tryhackme.com/room/cybergovernanceregulation)
+![TryHackMe Badge](https://tryhackme.com/p/viannmarie1
 
 ## 📍 Room: [Governance and Regulation](https://tryhackme.com/room/governanceregulation)  
 **Completed by:** Viann Klaus  
