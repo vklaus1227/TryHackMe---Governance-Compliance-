@@ -67,7 +67,7 @@ This directly aligns with my goal of transitioning into **GRC and Compliance Ana
 |--------|------------|
 | Room Overview | ![Room Overview](Intro.png) |
 | Framework Comparison | ![Frameworks](NIST.png) |
-| Completed Tasks | ![Completed](Completedtasks.png)  |
+| Completed Tasks | ![Completed](Completetasks.png)  |
 | Quiz Completion | ![Quiz Completion](Quiz.png) |
 | Final Task Completed | ![Final Task](Conclusion.png) |
 
