@@ -84,8 +84,8 @@ This directly aligns with my goal of transitioning into **GRC and Compliance Ana
 ## 🧩 Next Steps
 
 - Complete more GRC-focused rooms such as:
-  - [Security Governance](https://tryhackme.com/room/securitygovernance)
-  - [SOC Level 1](https://tryhackme.com/room/soclevel1)
+  - [Risk Management](https://tryhackme.com/room/seriskmanagement)
+  - [SOC Level 1](https://tryhackme.com/path/outline/soclevel1)
 - Continue building practical knowledge in policy writing, risk assessments, and compliance mapping
 
 ---
