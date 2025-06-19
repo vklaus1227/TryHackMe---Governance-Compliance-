@@ -71,8 +71,6 @@ This directly aligns with my goal of transitioning into **GRC and Compliance Ana
 | Quiz Completion | ![Quiz Completion](Quiz.png) |
 | Final Task Completed | ![Final Task](Conclusion.png) |
 
-> 📁 Save your screenshots in a `/screenshots` folder in the repo. If you're hosting the images elsewhere, replace the image paths accordingly.
-
 ---
 
 ## ✅ Completion Badge
