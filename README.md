@@ -92,5 +92,5 @@ This directly aligns with my goal of transitioning into **GRC and Compliance Ana
 
 ## 🔗 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/viann-klaus
+- 💼 [LinkedIn](https://www.linkedin.com/in/viann-klaus)
 - 💻 [GitHub](https://github.com/YOUR-GITHUB)
